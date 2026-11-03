@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+html {
+  min-height: 100%;
+  background-color: #f7b267;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+}
+
+h2 {
+  padding-top: 3rem;
+}
+
+p {
+  padding: 1rem;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+.fade {
+  opacity: 0;
+}
+
+.line {
+  background-color: #0093E9;
+  width: 0;
+}
+
+.slide-in {
+  opacity: 0;
+}
